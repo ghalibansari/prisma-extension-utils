@@ -12,5 +12,8 @@
   },
   "keywords": [],
   "author": "Ghalib Ansari <ghalibansari1994@gmail.com> (https://www.linkedin.com/in/ghalibansari)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
